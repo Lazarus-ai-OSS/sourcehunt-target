@@ -1,0 +1,8 @@
+schema: v1
+component: sourcehunt-target
+product: clearwing
+type: data
+owner:
+  jira_project: LP
+  team: team-applied-ai
+deployments: []
